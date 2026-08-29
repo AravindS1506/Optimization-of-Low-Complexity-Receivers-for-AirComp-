@@ -1,1 +1,0 @@
-# Optimization of Low-Complexity Receivers for AirComp 
